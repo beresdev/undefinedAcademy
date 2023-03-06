@@ -48,19 +48,17 @@ const bere = {
 #### ✨ Terminal commands I learned ✨
 
 | command | description |
-| :-: | :-: |
+| :-----: | :---------: |
 | date | Shows time and date of current system|
 | uptime | Shows the time elapsed since you last started the computer|
 | cal | Shows current month calendar|
 | df | Shows current hard disc free space|
 | cp-r | It allows us to copy a folder given a starting path and an ending path.|
 
-***
-
 #### ✨ Usefull alias commands ✨
 
 | alias | description |
-| :-: | :-: |
+| :---: | :---------: |
 | npmd | "npm run dev"|
 | npms | "npm start"|
 | cl | "clear" |
